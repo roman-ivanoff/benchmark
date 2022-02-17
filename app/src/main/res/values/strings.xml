@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">benchmark</string>
+    <string name="please_enter_collection">Please enter collection size and number of elements to compare</string>
+    <string name="collection_size">Collection Size</string>
+    <string name="calculate">Calculate</string>
+    <string name="arraylist">ArrayList</string>
+    <string name="copylist">CopyList</string>
+    <string name="linkedlist">LinkedList</string>
+    <string name="search_by_key">Search by key</string>
+    <string name="adding_new">Adding new</string>
+    <string name="hashmap">HashMap</string>
+    <string name="treemap">TreeMap</string>
+    <string name="removing">Removing</string>
+    <string name="clear">Clear</string>
+    <string name="removing_in_the_end">Removing in the end</string>
+    <string name="removing_in_the_middle">Removing in the middle</string>
+    <string name="removing_in_the_beginning">Removing in the beginning</string>
+    <string name="search_by_value">Search by value</string>
+    <string name="adding_in_the_end">Adding in the end</string>
+    <string name="adding_in_the_middle">Adding in the middle</string>
+    <string name="adding_in_the_beginning">Adding in the beginning</string>
+    <string name="map_size">Map Size</string>
+    <string name="enter_collection_size">Please, enter collection size</string>
+    <string name="enter_map_size">Please, enter map size</string>
+    <string name="lists">Lists</string>
+    <string name="maps">Maps</string>
+    <string name="list">List</string>
+    <string name="map">Map</string>
+    <string name="enter_correct_size">Enter correct size</string>
 </resources>
